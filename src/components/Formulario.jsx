@@ -80,7 +80,7 @@ const Formulario = ({pacientes, setPacientes, paciente, setPaciente}) => {
 
   return (
     <div className="md:w-1/2 lg:w-2/5 mb-10">
-      <h2 className="font-black text-3xl text-center">Seguimiento Pacientes</h2>
+      <h2 className="font-black text-3xl text-center">Seguimiento Pacientes {""} con GitHub {''}</h2>
       <p className="text-center mt-3 mb-4">
         Añade pacientes y {''}
         <span className="text-indigo-600 font-bold">
